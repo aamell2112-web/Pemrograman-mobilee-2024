@@ -82,6 +82,8 @@ Langkah 4
 
 Saya mempelajari perbedaan stateless dan stateful widget
 
+-----
+
 **Praktikum 5 : widget dasar**
 
 Hasil
@@ -92,4 +94,6 @@ Langkah 1
 
 **Penjelasan**
 
-Saya menggunakan widget text, icon, dan coloumn
+Saya menggunakan widget text, icon, dan coloumn untuk membuat tampilan sederhana.
+
+Sekian dan Terimakasih.
